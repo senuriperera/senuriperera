@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineering+Student;Web+Developer;UI+Designer;Come+Code+With+Me;" style="max-width: 100%;">
 </div>
 
-<div align="right" style="max-width: 100%;">
+<div align="center" style="max-width: 100%;">
   <img width="250px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" style="max-width: 100%;" />
 </div>
 
@@ -26,7 +26,7 @@ A passionate Software Engineering undergraduate at the University of Plymouth, t
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img align="center" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" style="max-width: 100%;" />
+  <img align="center" width="300px" height="300px" alt="side_sticker" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" style="max-width: 200%;" />
 
 </div>
 
