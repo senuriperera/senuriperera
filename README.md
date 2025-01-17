@@ -26,7 +26,8 @@ A passionate Software Engineering undergraduate at the University of Plymouth, t
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img align="center" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%;" />
+  <img align="center" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" style="max-width: 100%;" />
+
 </div>
 
 </div>
