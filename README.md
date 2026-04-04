@@ -43,7 +43,7 @@ A passionate Software Engineering undergraduate at the University of Plymouth, t
 - 🤝 Open to exciting collaborations
 - ⚡ Fun fact: My code runs perfectly... in my dreams!
 - 📫 Reach me at: pererasenuri7@gmail.com
-- 🎯 2025 Goals: Contribute to Open Source projects
+
 
 </div>
 
