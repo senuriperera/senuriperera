@@ -6,7 +6,7 @@
 # ✨ Hi there, I'm Senuri Perera! ✨
 
 <div style="display: inline-block; max-width: 100%;">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineering+Student;Web+Developer;UI+Designer;Come+Code+With+Me;" style="max-width: 100%;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineering+Student;FullStack+Developer;QA+Enthusiast;UI+Designer;Come+Code+With+Me;" style="max-width: 100%;">
 </div>
 
 <div align="center" style="max-width: 100%;">
@@ -38,6 +38,7 @@ A passionate Software Engineering undergraduate at the University of Plymouth, t
 
 - 🚀 Currently exploring *Selenium WebDriver & Test Automation*
 - 💻 Full-stack development enthusiast
+- 🧪 QA Enthusiast | Test Automation Learner
 - 🎨 UI/UX design passionate
 - 🌱 Always learning, always growing
 - 🤝 Open to exciting collaborations
