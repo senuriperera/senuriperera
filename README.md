@@ -37,10 +37,11 @@ A passionate Software Engineering undergraduate at the University of Plymouth, t
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 - 🚀 Currently exploring *Selenium WebDriver & Test Automation*
-- 💻 Full-stack development enthusiast
-- 🧪 QA Enthusiast | Test Automation Learner
-- 🎨 UI/UX design passionate
-- 🌱 Always learning, always growing
+- 🧪 Passionate about Software Quality Assurance
+- 💻 Background in Full-stack Development
+- 🎯 Interested in Manual & Automated Testing
+- 🐞 Love finding bugs and improving user experience
+- 🌱 Always learning new testing tools & practices
 - 🤝 Open to exciting collaborations
 - ⚡ Fun fact: My code runs perfectly... in my dreams!
 - 📫 Reach me at: pererasenuri7@gmail.com
