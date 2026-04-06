@@ -36,7 +36,7 @@ A passionate Software Engineering undergraduate at the University of Plymouth, t
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-- 🚀 Currently exploring *React Native*
+- 🚀 Currently exploring *Selenium WebDriver & Test Automation*
 - 💻 Full-stack development enthusiast
 - 🎨 UI/UX design passionate
 - 🌱 Always learning, always growing
